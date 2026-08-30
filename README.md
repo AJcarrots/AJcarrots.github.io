@@ -13,6 +13,6 @@ Applied Data Science taps into the application of Statistics into Data Science. 
 
 This book interested me because of the beginner friendly introduction in all sections. It also includes pure and complex mathematical/statistical computations and transform them to consumable forms by through Python. 
 
-http://columbia-applied-data-science.github.io/appdatasci.pdf
+> http://columbia-applied-data-science.github.io/appdatasci.pdf
 
 
